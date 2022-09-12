@@ -1,0 +1,2 @@
+# www.patikadev
+patikaödevi
