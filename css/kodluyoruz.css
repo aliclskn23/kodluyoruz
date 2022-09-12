@@ -1,0 +1,45 @@
+body{background-color: rgb(210, 198, 139);
+    text-align:center;}
+    
+.birinci-baslik{
+    color: rgb(205, 7, 7);
+   font-size: 80 px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.ikinci-baslik{
+    color: rgb(99, 41, 99);
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.üçüncü-baslik{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+p{
+ font-style:italic;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.link{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(147, 11, 11);
+    font-size:medium;
+    text-align: left;
+}
+aside{
+    width:min-content
+    
+}
+.link-iki{
+    text-align: right;
+}
+    
+    
+    
+    
