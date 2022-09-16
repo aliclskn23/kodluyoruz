@@ -1,0 +1,51 @@
+.container {
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    
+}
+.bg-red{
+    background-color: rgb(113, 157, 196);
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    
+    
+}
+.bg-blue{
+    background-color: rgb(105, 135, 201);
+    
+}
+
+
+.bg-green{
+    background-color: rgb(103, 131, 209);
+    width: 500px;
+    height: 100px;
+    float: left;
+    margin:10px;
+    color: white;
+
+}
+.box{
+    width: 1500px;
+    height: 100px;
+    background-color:rgb(197, 173, 173);
+    text-align: center;
+   margin-bottom: 30px;
+}
+.google{
+    width: 750px;
+    height: 25px;
+   
+}
+.beta{
+    text-align: center;
+
+}
+.clear{
+    clear: both;
+}

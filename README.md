@@ -1,2 +1,0 @@
-# www.patikadev
-patikaödevi
